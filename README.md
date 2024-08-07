@@ -1,15 +1,12 @@
-##ola bem vindos ao meu perfil 😃feliz
 
-oi meu nome e caick soares moraes
+##ola bem vindo ao meu perfil😄
+meu nome é caick soares moraes 
 
-estou estudando no alura
-estou desenvolvendo na lingugem javascript
-utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+- estou fazendo curso na alura
+- estou me desenvolvendo na linguagem javascript 
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### voce entra em contato comigo 📫
+- ## vocẽ entra em contato comigo 📫
 
-caicksoareslogin@gmail.com
-
-@moraes1234
-
-![](https://tenor.com/pt-BR/view/tmnt2003-teenage-mutant-ninja-turtles-tmnt-gif-26214706)
+- caicksoaresmoraes@gmail.com
+- @soaresmoraes
