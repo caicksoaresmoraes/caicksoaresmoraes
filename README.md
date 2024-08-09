@@ -12,4 +12,8 @@ meu nome é caick soares moraes
 - 
 - @soaresmoraes
 
-![](https//tenor.com/pt-BR/view/tmnt-tmnt2012-teenage-mutant-ninja-turtles-gift-7404754333005500284).
+![](<img src="https: alt="as tartarugas ninja mutantes adolescentes estão posando para uma foto juntas"/>![image](https://github.com/user-attachments/assets/2ccbe352-b246-42f8-b182-2adb114bf89f)
+)
+
+
+
