@@ -2,7 +2,7 @@
 ##ola bem vindo ao meu perfil😄
 meu nome é caick soares moraes 
 
-- estou fazendo curso na alura
+- estou fazendo curso na [alura](http://www.alura.com.br)
 - estou me desenvolvendo na linguagem javascript 
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
